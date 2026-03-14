@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:/Users/helde/Documents/Projects/TestFabric\" remote -v)"
+    ]
+  }
+}
